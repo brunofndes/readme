@@ -1,14 +1,13 @@
-# Olá, sou Bruno Fernandes 👋
+# Olá, me chamo Bruno Fernandes 👋
 
 - 👨‍💻  Sou um entusiasta da tecnologia e desenvolvedor de software apaixonado por resolver problemas através da programação.
 - 🎓 Cursando o 5º periodo de **ANÁLISES E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninassau.edu.br/">Uninassau</a>.
 - 💼 Neste momento, estou aberto a oportunidades de trabalho como desenvolvedor de software.
-- 🌱 &nbsp; Me tornenando especialista em **Java, Spring e todo seu ecossistema**.
+- 🌱 &nbsp; Me tornando especialista em **Java, Spring e todo seu ecossistema**.
 
 ## 🛠️Minhas Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -23,7 +22,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 <br/>
@@ -32,13 +31,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofndes&theme=dracula&show_icons=true" />
 </a>
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=brunofndes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api?username=brunofndes&theme=radical)](https://github.com/brunofndes)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofndes&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofndes&hide=html&layout=compact&theme=radical)](https://github.com/brunofndes)
 
-## 🤝 Vamos Conectar
+## 🤝 Vamos Nos Conectar
 
 Estou sempre aberto a conversas construtivas, colaborações em projetos interessantes e novas amizades no mundo da tecnologia. Você pode me encontrar em diferentes plataformas:
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/brunofndes/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:brunof900@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/brunofndes)
+
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunofndes/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](brunof900@gmail.com)
+[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5579998585480&text=Ola!%20Tudo%20bem)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunofndes/)
