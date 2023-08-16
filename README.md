@@ -27,10 +27,6 @@
 
 <br/>
 
-<a href="https://github.com/brunofndes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofndes&theme=dracula&show_icons=true" />
-</a>
-
 [![iuricode](https://github-readme-stats.vercel.app/api?username=brunofndes&theme=radical)](https://github.com/brunofndes)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofndes&hide=html&layout=compact&theme=radical)](https://github.com/brunofndes)
